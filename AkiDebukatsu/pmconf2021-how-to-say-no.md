@@ -1,4 +1,4 @@
-教材: [Noを伝える技術 #pmconf2021](https://speakerdeck.com/aki_i/nowochuan-eruji-shu-number-pmconf2021)
+教材: [Noを伝える技術 #pmconf2021](https://speakerdeck.com/aki_i/nowochuan-eruji-shu-number-pmconf2021)<br>
 動画：<https://www.youtube.com/watch?v=LXBKBkWX38M>
 
 # :hamburger:Noを伝える技術 #pmconf2021:hamburger:
