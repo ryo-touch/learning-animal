@@ -140,3 +140,4 @@ const API_KEY = PropertiesService.getScriptProperties().getProperty('API_KEY');
 - [clasp - The Apps Script CLI](https://codelabs.developers.google.com/codelabs/clasp?authuser=0#0)
 - [Google Apps ScriptをGitHubで管理するには](https://zenn.dev/game8_blog/articles/db189ba79d1750)
 - [GASをGit管理するならGithubアシスタントとclaspどっちを使うか？](https://zenn.dev/rescuenow/articles/936a1f4fb4d889)
+- [【GASプロジェクトをローカルで管理】claspの使い](https://zenn.dev/nenenemo/articles/dcc3fade96d809)
